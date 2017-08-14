@@ -1,5 +1,5 @@
 {
-    "name": "boleiros/summernote-editor",
+    "name": "maiconpinto/summernote-editor",
     "description": "Summernote Editor plugin for CakePHP",
     "type": "cakephp-plugin",
     "require": {
